@@ -1,0 +1,26 @@
+{
+  "id": "91ace1b8-89e6-49d6-818d-e51ff8ebc3bd",
+  "name": "StarterProject",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "showMyCode": true,
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "runtime": "7.0",
+  "features": ["NoImplicitWith"]
+}
